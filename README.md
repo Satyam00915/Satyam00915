@@ -53,11 +53,11 @@
 ---
 
 <h3 align="left">🏆 GitHub Stats:</h3>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyam00915&show_icons=true&theme=react" alt="GitHub Stats"/>
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam00915&theme=react" alt="GitHub Streak" />
 </p>
 
