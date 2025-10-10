@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Upadhyay</h1>
 <h3 align="center">🚀 Full-Stack Developer | DevOps Explorer | Blockchain Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://satyam915-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://satyam915-portfolio.vercel.app/)
 - 📧 How to reach me **satyamupadhyay0495@gmail.com**
 - ⚡ Fun fact **💻 My browser has 37 open tabs, and I pretend that’s normal.**
 
