@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Satyam%20Upadhyay&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Explorer%20%7C%20Blockchain%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Satyam%20Upadhyay&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Aspiring%20Developer%20%7C%20Learning%20Every%20Day&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+caffeine+into+code+since+forever;%F0%9F%94%97+Web3+%7C+Cloud+Native+%7C+Open+Source+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Satyam!;%F0%9F%93%9A+Currently+learning+web+development;%F0%9F%9A%80+Exploring+tech+one+step+at+a+time" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views & Followers -->
@@ -32,25 +32,15 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
 
 ```typescript
-const satyam: Developer = {
+const satyam = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
-    code: ["TypeScript", "JavaScript", "Solidity", "Python", "Go"],
-    askMeAbout: ["web dev", "cloud", "DevOps", "blockchain", "system design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Styled Components", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-        },
-        devOps: ["Docker", "Kubernetes", "AWS", "Nginx", "CI/CD"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        blockchain: ["Ethereum", "Solidity", "Web3.js", "Hardhat"]
-    },
-    currentFocus: "Building scalable distributed systems",
-    funFact: "💻 My browser has 37 open tabs, and I pretend that's normal."
+    status: "Student & aspiring developer",
+    learning: ["HTML", "CSS", "JavaScript"],
+    interestedIn: ["Web Development", "Open Source", "Building cool stuff"],
+    tools: ["VS Code", "Git", "GitHub"],
+    currentFocus: "Learning web development from scratch",
+    funFact: "💻 I break things first, then figure out how to fix them."
 };
 ```
 
