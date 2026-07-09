@@ -158,7 +158,7 @@ const satyam: Developer = {
   </picture>
 </div>
 
-> 💡 **Setup:** To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo with [this workflow](https://github.com/Platane/snk#github-action).
+> ✅ **Auto-generated** via [GitHub Actions workflow](.github/workflows/snake.yml) using [Platane/snk](https://github.com/Platane/snk). Runs every 12 hours.
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
