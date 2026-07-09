@@ -1,132 +1,202 @@
-# ⚡ Welcome to my profile!
-
 <div align="center">
-  <!-- Interactive Animated Cyberpunk Header -->
-  <img src="./assets/header.svg" width="100%" alt="Satyam Upadhyay Header" />
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Satyam%20Upadhyay&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Explorer%20%7C%20Blockchain%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55" />
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%E2%9A%A1+Turning+caffeine+into+code+since+forever;%F0%9F%94%97+Web3+%7C+Cloud+Native+%7C+Open+Source+Advocate" alt="Typing SVG" />
+</a>
+
+<!-- Profile Views & Followers -->
+<br/>
+<br/>
+
+<a href="https://github.com/satyam00915">
+  <img src="https://komarev.com/ghpvc/?username=satyam00915&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</a>
+&nbsp;
+<a href="https://github.com/satyam00915?tab=followers">
+  <img src="https://img.shields.io/github/followers/satyam00915?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/satyam00915">
+  <img src="https://img.shields.io/github/stars/satyam00915?label=Stars&style=for-the-badge&color=f0883e&labelColor=0d1117" alt="Stars" />
+</a>
+
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
+
+```typescript
+const satyam: Developer = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    code: ["TypeScript", "JavaScript", "Solidity", "Python", "Go"],
+    askMeAbout: ["web dev", "cloud", "DevOps", "blockchain", "system design"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind CSS", "Styled Components", "Sass"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express", "NestJS"],
+        },
+        devOps: ["Docker", "Kubernetes", "AWS", "Nginx", "CI/CD"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        blockchain: ["Ethereum", "Solidity", "Web3.js", "Hardhat"]
+    },
+    currentFocus: "Building scalable distributed systems",
+    funFact: "💻 My browser has 37 open tabs, and I pretend that's normal."
+};
+```
 
 <br/>
 
-<!-- Social Links Row -->
-<p align="center">
-  <a href="https://linkedin.com/in/satyam0915" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+<div align="center">
+  <a href="https://satyam915-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/_lucifer_0915" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
+  <a href="mailto:satyamupadhyay0495@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-satyamupadhyay0495-ea4335?style=for-the-badge&labelColor=0d1117" alt="Email"/>
   </a>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp;Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔗 Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyam00915&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyam00915&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
   &nbsp;
-  <a href="mailto:satyamupadhyay0495@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://satyam915-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=58a6ff" height="28" alt="Portfolio" />
-  </a>
-</p>
-
-<br/>
-
----
-
-## 🛠️ System Overview & Bio
-
-<div align="center">
-  <!-- Interactive Terminal Card -->
-  <img src="./assets/terminal.svg" width="100%" alt="Satyam's System Specs" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam00915&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 <br/>
 
----
-
-## 🌌 Tech Stack & Capabilities
-
 <div align="center">
-
-| Component | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,bash&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" /> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,redis&theme=dark" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&theme=dark" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,linux&theme=dark" /> |
-| **Workflow & Design** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" /> |
-
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam00915&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
----
-
-## 📊 Live Metrics & Activity
-
+<!-- Activity Graph -->
 <div align="center">
-  <!-- Stats & Streak Cards side-by-side -->
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <!-- Main Stats Card (with heavy caching to prevent Vercel 503 limits) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=satyam00915&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=86400" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Streak Stats Card (using highly reliable demolab endpoint) -->
-        <img src="https://streak-stats.demolab.com/?user=satyam00915&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=888888&cache_seconds=86400" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Top Languages Donut Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam00915&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css&cache_seconds=86400" width="450" alt="Top Languages" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyam00915&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0883e&area=true&area_color=58a6ff&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🏆 Trophy Hall
-
-<div align="center">
-  <!-- Trophies with fallback-safe theme and styling -->
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam00915&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
-
-## 📈 Activity Graph & Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam00915&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff15&hide_border=true&radius=6" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
----
-
-## 🐍 Snake Game Grid
-
-<div align="center">
-  <!-- Interactive Snake animation rendered using output branch SVGs -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyam00915/satyam00915/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyam00915/satyam00915/output/github-snake.svg" />
-    <img alt="GitHub Snake Game Grid" src="https://raw.githubusercontent.com/satyam00915/satyam00915/output/github-snake-dark.svg" width="100%" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/satyam00915/satyam00915/output/github-snake-dark.svg" />
   </picture>
+</div>
+
+> 💡 **Setup:** To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo with [this workflow](https://github.com/Platane/snk#github-action).
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/satyam0915" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_lucifer_0915" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:satyamupadhyay0495@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://satyam915-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br/>
 
----
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<!-- Animated Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
 
 <div align="center">
-  <!-- Waving Footer from Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%" />
-  
-  <br/>
-  <sub>Built with 🔥 and 💻 by Satyam Upadhyay</sub>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  &nbsp;
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 </div>
