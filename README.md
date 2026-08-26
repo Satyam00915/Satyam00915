@@ -33,7 +33,6 @@
 
 ```typescript
 const satyam = {
-    pronouns: "he" | "him",
     location: "India 🇮🇳",
     status: "Student & aspiring developer",
     learning: ["HTML", "CSS", "JavaScript"],
